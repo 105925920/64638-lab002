@@ -1,0 +1,13 @@
+h1,h2,h3,a,p,h4, table, tr,li {
+    font-family: sans-serif;
+}
+td{
+    text-align: left;
+    width:250px;
+}
+th{
+    text-align: left;
+}
+body{
+    padding: 5%
+}
